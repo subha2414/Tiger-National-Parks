@@ -1,9 +1,5 @@
 <h2> Bharatपधारो  <img src="https://c.tenor.com/DtEGh1dnWmQAAAAi/nature-green.gif" height="40px" width=="100px"> </h2> 
 
-<h2>❉Link to Our Website:https://ankitjha2711.github.io/BHARAT-PADHARO </h2>
-<h2>❉Link to Our Youtube Video:https://youtu.be/lwIg5Y3H4ls </h2>
-<h2>❉Link to Our Github Repository:https://github.com/ankitjha2711/BHARAT-PADHARO </h2>
-
 <p><img src="https://thumbs.gfycat.com/WelloffWelllitDuiker.webp" height="60px" width=="100px"><h2>Tagline</h2></p><p>
   
 Our websites provide all of the information on a national park in a specific state that the user has requested. Our website makes it simple to find nearby hotels and tourist attractions.
